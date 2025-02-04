@@ -8,7 +8,7 @@ A rookie who loves to learn 🌱 and excited to explore the world of programming
 ### https://stevenhsu.vercel.app/
 
 ## Programming Languages 
-| <a href="https://github.com/xizon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenHsu22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="UIUX Lab's github stats" /></a> | <a href="https://github.com/xizon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHsu22&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/xizon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenhsu22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="UIUX Lab's github stats" /></a> | <a href="https://github.com/xizon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhsu22&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![](https://skillicons.dev/icons?i=python,js,typescript,html,css)  
